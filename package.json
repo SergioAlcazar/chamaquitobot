@@ -1,0 +1,24 @@
+{
+  "name": "chamaquitobot",
+  "version": "1.0.0",
+  "description": "A telegram bot that sugests fake mexican dish names.",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.81.0",
+    "telebot": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergioAlcazar/chamaquitobot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergioAlcazar/chamaquitobot/issues"
+  },
+  "homepage": "https://github.com/SergioAlcazar/chamaquitobot#readme"
+}
